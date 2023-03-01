@@ -1,0 +1,15 @@
+.presentacion__parrafo{
+    color: aliceblue;
+    font-size: 2rem;
+    font-style: oblique;
+    border: 1px solid #d0d0d0;
+}
+
+@media screen and (max-width:500px) {
+    .presentacion__parrafo{
+       
+        font-size: 1rem;
+       
+        
+    }
+}

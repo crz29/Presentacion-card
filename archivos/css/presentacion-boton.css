@@ -1,0 +1,31 @@
+.d-grid{
+    display: flex;
+}
+.btn-primary{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background: rgb(176, 132, 179);
+    height: 10vh;
+    margin-top: 10%;
+    border-radius: 1rem;
+    transition: all .1s ease-in-out;
+    
+
+}
+
+.btn-primary:hover{
+    
+        cursor: pointer;
+        background: rgb(194, 10, 204);
+    
+}
+@media screen and (max-width:500px) {
+    .btn-primary{
+        align-items: center;
+        top: 65%;
+        font-size: 1rem;
+        height: 7vh;
+        
+    }
+}

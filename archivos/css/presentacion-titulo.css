@@ -1,0 +1,23 @@
+.presentacion__titulo{
+        position: relative;
+        color: #fdfdfd;
+        font-family: Pacifico, cursive;
+        font-size: 3rem;
+        align-items: center;
+        margin-left: 2rem;
+        top: 60%;
+        left: 50%;
+        text-shadow: 1px 1px 2px black, 0 0 1em rgb(187, 255, 0), 0 0 0.2em rgb(187, 255, 0);
+        transform: translate(-50%, -50%);
+    
+    }
+
+    @media screen and (max-width:500px) {
+    .presentacion__titulo{
+        align-items: center;
+        top: 65%;
+        font-size: 1.5rem;
+        margin-left: 0
+        
+    }
+}
