@@ -1,5 +1,5 @@
 .presentacion__card{
    
-    background: url("../img/fondo_geometrico...jpg") no-repeat center / cover;
+    background: url("../img/geometrico.jpg") no-repeat center / cover;
     height: calc(100vh - 22px);
 }
