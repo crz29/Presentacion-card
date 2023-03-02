@@ -9,3 +9,16 @@
     
 }
 
+
+@media screen and (max-width:500px) {
+    .presentacion__texto{
+       
+        font-size: 1rem;
+        width: 100%;
+        margin-left: 0;
+        
+    
+       
+        
+    }
+}

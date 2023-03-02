@@ -1,5 +1,5 @@
 .presentacion__parrafo{
-    color: rgb(6, 71, 128);
+    color: black;
     font-size: 2rem;
     font-style: oblique;
     border: 2px solid #150303;
@@ -10,6 +10,7 @@
     .presentacion__parrafo{
        
         font-size: 1rem;
+    
        
         
     }
