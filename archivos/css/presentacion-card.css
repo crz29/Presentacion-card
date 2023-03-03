@@ -1,5 +1,6 @@
 .presentacion__card{
    
-    background: url("../img/geometrico.jpg") no-repeat center / cover;
-    height: calc(100vh - 22px);
+    background: linear-gradient(45deg, rgb(235, 230, 230), rgb(182, 152, 172));
+        
+    
 }
