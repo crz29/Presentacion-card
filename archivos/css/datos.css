@@ -1,0 +1,18 @@
+.datos__titulo{
+    background-color: rgb(217, 210, 210);
+    font-family: 'Amaranth', sans-serif;
+    text-decoration: none;
+}
+
+.principal{
+    text-align: left;
+    background: linear-gradient(45deg, rgb(235, 230, 230), rgb(182, 152, 172));
+    height: 50vh;
+    font-size: 2rem;
+ 
+    
+}
+#footer1{
+    background-color: rgb(217, 210, 210);
+    font-family: 'Amaranth', sans-serif;
+}
